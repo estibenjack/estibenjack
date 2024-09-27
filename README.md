@@ -8,7 +8,7 @@ console.log('Welcome to my GitHub! ✨')
 - 💻 My name is Steven
 - 👨🏼‍💻 MSc in Software Development student
 - 💬 Started learning Spanish, Portuguese, and French, now diving into the world of coding languages
-- ✨ Now focusing on Java as part of my degree after a year of self-studying web development
+- ✨ Focusing on Java as part of my degree after a year of self-studying web development
   
 # Technologies and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,figma)](https://skillicons.dev)
