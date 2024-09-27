@@ -6,11 +6,10 @@ console.log('Welcome to my GitHub! ✨')
 
 # About Me
 - 💻 My name is Steven
-- 👨🏼‍💻 Budding Frontend Developer
+- 👨🏼‍💻 MSc in Software Development student
 - 💬 Started learning Spanish, Portuguese, and French, now diving into the world of coding languages
-- ✨ Self-taught coder
-- 🎉 On a journey to learn and grow in web development
-
+- ✨ Now focusing on Java as part of my degree after a year of self-studying web development
+  
 # Technologies and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,figma)](https://skillicons.dev)
 
