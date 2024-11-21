@@ -7,9 +7,9 @@ System.out.println("Welcome to my GitHub! ✨")
 # About Me
 - 💻 My name is Steven
 - 👨🏼‍💻 Technical Support Specialist and self-taught coder now pursuing an MSc in Software Development
-- 💬 Started learning Spanish, Portuguese, and French, now diving into the world of coding languages
 - ✨ I enjoy working with: **Java**, **HTML**, **CSS**, **JavaScript**, and **React**
 - 🚀 Always learning, improving, and expanding my skill set
+- 💬 I speak **Spanish**, **Portuguese** and **French**
 
 Thanks for stopping by—feel free to share any thoughts or feedback!  
 
