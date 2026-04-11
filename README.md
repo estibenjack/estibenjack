@@ -5,7 +5,6 @@ System.out.println("Welcome to my GitHub! ✨");
 
 ## About Me
 
-- 💻 Technical Content Writer
 - 🎓 MSc Software Development @ Queen's University Belfast
 - 🌍 I speak Spanish, Portuguese and French
 
