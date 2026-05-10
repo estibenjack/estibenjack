@@ -13,7 +13,7 @@
 
 ---
 
-## 🙋🏻 About Me
+## 🙋🏼‍♂️ About Me
 
 - 🎓 MSc Software Development @ Queen's University Belfast (graduating 2027)
 - 🛠️ Currently building: a data warehouse pipeline using dbt and Prefect
