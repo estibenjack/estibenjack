@@ -25,6 +25,18 @@
 
 ## 🚀 Featured Projects
 
+### ✈️ Flights Data Warehouse Pipeline (In Progress)
+A production-style ELT pipeline transforming 5.8M rows of United States flight data. Built with a Medallion Architecture (Bronze/Silver/Gold) to demonstrate modern data engineering practices.
+
+- Ingestion: Python scripts extracting from AWS S3.
+- Storage: PostgreSQL (Dockerised).
+- Transformation: dbt (data build tool) for modular SQL modeling and schema enforcement.
+- Architecture: Implements a Star Schema with Fact and Dimension tables for optimised analytical querying.
+
+🔗 [github.com/estibenjack/flights-prod-style-dwh-pipeline](https://github.com/estibenjack/flights-prod-style-dwh-pipeline)
+
+---
+
 ### 🎵 Spotify Listening History Pipeline
 Automated ETL pipeline pulling my recently played tracks from the Spotify API every 6 hours, transforming the data, and loading it into a cloud PostgreSQL database on Supabase — orchestrated via GitHub Actions.
 
@@ -71,6 +83,8 @@ Java OOP ATM simulator demonstrating core object-oriented design principles.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
