@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  English · 🇪🇸 Spanish · 🇫🇷 French · 🇧🇷 Portuguese
+  EN · ES · FR · PT
 </p>
 
 ---
