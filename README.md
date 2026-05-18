@@ -23,6 +23,19 @@
 
 ## 🚀 Featured Projects
 
+### 🏪 Sole Traders
+A fullstack web application that connects clients with local tradespeople. Traders get a personalised dashboard to manage their services, track activity statistics and view customer ratings.
+
+Built across two independent Node.js/Express servers — a RESTful API layer and a separate frontend — connected to a MySQL database with full CRUD operations. Authentication is handled with session-based login, bcrypt password hashing and protected routes via custom middleware.
+
+Started as a university web development module project and extended independently — migrating the frontend from EJS to React, refactoring the architecture and improving mobile responsiveness.
+
+**Stack:** Node.js · Express · MySQL · React · Vite · Bulma CSS · Chart.js
+
+🔗 [github.com/estibenjack/sole-traders](https://github.com/estibenjack/sole-traders)
+
+---
+
 ### 🛒 Brazilian E-Commerce Analytics Project (_In Progress_)
 End-to-end data analytics project built around a real Brazilian e-commerce dataset containing 1.5M+ records across customers, orders, payments, reviews, products, and logistics data.
 
@@ -35,35 +48,29 @@ Key areas explored included:
 - Product category and regional performance
 - Data quality issues and KPI validation
 
+**Stack:** SQL · PostgreSQL · Power BI
+
 🔗 [github.com/estibenjack/olist-ecommerce-data-project](https://github.com/estibenjack/olist-ecommerce-data-project)
+
+---
+
+### 🎨 Streetscript
+A REST API that turns song lyrics into language learning flashcards. Paste in lyrics or provide a song title and artist, and Gemini generates contextual flashcards with translations and cultural notes automatically.
+
+Built with Python and Django REST Framework, with JWT authentication, full CRUD across nested deck and card endpoints, and a structured AI output schema that ensures Gemini always returns consistent, parseable data. Also my first project in Python and Django, having previously built in Node.js and Express.
+
+**Stack:** Python · Django REST Framework · PostgreSQL · JWT · Google Gemini API · Genius API
+
+🔗 [github.com/estibenjack/streetscript](https://github.com/estibenjack/streetscript)
 
 ---
 
 ### 🎵 Spotify Listening History Pipeline
 Automated ETL pipeline that extracts my recently played tracks from the Spotify API every 6 hours, transforms and normalises the data into a PostgreSQL star schema on Supabase, and enriches artist metadata using the Last.fm API — orchestrated via GitHub Actions.
 
+**Stack:** Python · PostgreSQL · Spotify API · Last.fm API · GitHub Actions
+
 🔗 [github.com/estibenjack/spotify-pipeline](https://github.com/estibenjack/spotify-pipeline)
-
----
-
-### 🏪 Sole Traders
-Full stack web application built with Node.js, Express and React. 
-
-🔗 [github.com/estibenjack/sole-traders](https://github.com/estibenjack/sole-traders)
-
----
-
-### 🎨 Streetscript
-REST API built with Django and Python.
-
-🔗 [github.com/estibenjack/streetscript](https://github.com/estibenjack/streetscript)
-
----
-
-### 🏧 Belfast Bank ATM
-Java OOP ATM simulator demonstrating core object-oriented design principles.
-
-🔗 [github.com/estibenjack/belfast-bank-atm](https://github.com/estibenjack/belfast-bank-atm)
 
 ---
 
