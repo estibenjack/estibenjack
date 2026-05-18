@@ -17,7 +17,7 @@
 
 - 🎓 MSc Software Development @ Queen's University Belfast (graduating 2027)
 - 💡 I enjoy the problem solving side of tech — whether that's building a backend API, writing an SQL query, designing a data pipeline, or exploring a new technology I haven't touched before
-- 🌍 Multilingual — I work comfortably across English, Spanish, French and Portuguese
+- 🌍 Multilingual - I work comfortably across English, Spanish, French and Portuguese
 
 ---
 
