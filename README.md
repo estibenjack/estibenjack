@@ -23,15 +23,19 @@
 
 ## 🚀 Featured Projects
 
-### ✈️ Flights Data Warehouse Pipeline (In Progress)
-A production-style ELT pipeline transforming 5.8M rows of United States flight data. Built with a Medallion Architecture (Bronze/Silver/Gold) to demonstrate modern data engineering practices.
+### 🛒 Brazilian E-Commerce Analytics Project (_In Progress_)
+End-to-end data analytics project built around a real Brazilian e-commerce dataset containing 1.5M+ records across customers, orders, payments, reviews, products, and logistics data.
 
-- Ingestion: Python scripts extracting from AWS S3.
-- Storage: PostgreSQL (Dockerised).
-- Transformation: dbt (data build tool) for modular SQL modeling and schema enforcement.
-- Architecture: Implements a Star Schema with Fact and Dimension tables for optimised analytical querying.
+I designed a layered SQL analytics pipeline (raw → staging → gold) in PostgreSQL to clean, standardise and model the data for business reporting in Power BI. The project focused heavily on data profiling, handling messy real-world data and building business-ready analytical views.
 
-🔗 [github.com/estibenjack/flights-prod-style-dwh-pipeline](https://github.com/estibenjack/flights-prod-style-dwh-pipeline)
+Key areas explored included:
+- Revenue and order growth trends
+- Customer segmentation and lifetime value
+- Delivery performance and late shipment analysis
+- Product category and regional performance
+- Data quality issues and KPI validation
+
+🔗 [github.com/estibenjack/olist-ecommerce-data-project](https://github.com/estibenjack/olist-ecommerce-data-project)
 
 ---
 
