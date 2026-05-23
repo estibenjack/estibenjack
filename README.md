@@ -99,6 +99,12 @@ Automated ETL pipeline that extracts my recently played tracks from the Spotify 
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estibenjack&show_icons=true&theme=dracula)
+
+---
+
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-jackson-62b795193/)
