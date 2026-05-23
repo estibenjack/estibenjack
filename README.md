@@ -23,19 +23,6 @@
 
 ## 🚀 Featured Projects
 
-### 🏪 Sole Traders
-A fullstack web application that connects clients with local tradespeople. Traders get a personalised dashboard to manage their services, track activity statistics and view customer ratings.
-
-Built across two independent Node.js/Express servers — a RESTful API layer and a separate frontend — connected to a MySQL database with full CRUD operations. Authentication is handled with session-based login, bcrypt password hashing and protected routes via custom middleware.
-
-Started as a university web development module project and extended independently — migrating the frontend from EJS to React, refactoring the architecture and improving mobile responsiveness.
-
-**Stack:** Node.js · Express · MySQL · React · Vite · Bulma CSS · Chart.js
-
-🔗 [github.com/estibenjack/sole-traders](https://github.com/estibenjack/sole-traders)
-
----
-
 ### 🛒 Olist Sales & Delivery Data Analysis
 End-to-end data analytics project built around a real Brazilian e-commerce dataset containing 1.5M+ records across customers, orders, payments, reviews, products and logistics data.
 
@@ -52,6 +39,19 @@ Key findings included:
 **Stack:** SQL · PostgreSQL · Power BI
 
 🔗 [github.com/estibenjack/olist-ecommerce-data-project](https://github.com/estibenjack/olist-ecommerce-data-project)
+
+---
+
+### 🏪 Sole Traders
+A fullstack web application that connects clients with local tradespeople. Traders get a personalised dashboard to manage their services, track activity statistics and view customer ratings.
+
+Built across two independent Node.js/Express servers — a RESTful API layer and a separate frontend — connected to a MySQL database with full CRUD operations. Authentication is handled with session-based login, bcrypt password hashing and protected routes via custom middleware.
+
+Started as a university web development module project and extended independently — migrating the frontend from EJS to React, refactoring the architecture and improving mobile responsiveness.
+
+**Stack:** Node.js · Express · MySQL · React · Vite · Bulma CSS · Chart.js
+
+🔗 [github.com/estibenjack/sole-traders](https://github.com/estibenjack/sole-traders)
 
 ---
 
