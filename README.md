@@ -16,9 +16,9 @@
 ## 🙋🏼‍♂️ About Me
 
 - 🎓 MSc Software Development @ Queen's University Belfast (graduating 2027)
-- 📊 Currently completing the EY AI & Data Academy in partnership with the Department for the Economy NI and Belfast Metropolitan College — 9 weeks of SQL, Python, Azure, Power BI and Databricks
-- 💡 I enjoy the problem solving side of tech — whether that's building a backend API, designing a data pipeline, writing an SQL query, or picking up a technology I haven't touched before
-- 🌍 Multilingual — I work comfortably across English, Spanish, French and Portuguese
+- 📊 Currently completing the EY AI & Data Academy in partnership with the Department for the Economy NI and Belfast Metropolitan College (9 weeks of SQL, Python, Azure, Power BI and Databricks)
+- 💡 I enjoy the problem solving side of tech, whether that's building a backend API, designing a data pipeline, writing an SQL query or picking up a technology I haven't touched before
+- 🌍 Multilingual - English, Spanish, French and Portuguese
 
 ---
 
