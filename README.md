@@ -4,7 +4,7 @@
 <h1 align="center">Hey, I'm Steven 👋🏻</h1>
 
 <p align="center">
-  <b>AI & Data Academy @ EY · MSc Software Development · Developer · Data Enthusiast</b>
+  <b>EY AI & Data Academy · MSc Software Development @ QUB · Data & Software Engineer</b>
 </p>
 
 <p align="center">
