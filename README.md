@@ -6,7 +6,7 @@
 <h1 align="center">Hey, I'm Steven 👋🏻</h1>
 
 <p align="center">
-  <b>AI & Data Consultant @ EY · Software Engineering · Data Engineering & AI</b>
+  <b>AI & Data Consultant @ EY · Data Engineering & AI · Software Engineering</b>
 </p>
 
 <p align="center">
@@ -30,39 +30,37 @@
 - 🧪 Currently developing my Java and Spring Boot skills through personal backend projects, focusing on application design, testing and real-world engineering challenges
 - 🌍 Multilingual — English, Spanish, Portuguese and French
 
+- 💼 AI & Data Consultant at EY, working on a banking data modernisation programme involving legacy data platforms, SQL, data lineage and transformation analysis
+- 🏗️ Particularly interested in data engineering, including ETL/ELT pipelines, data modelling, data quality and cloud data platforms
+- 🎓 Currently completing an MSc in Software Development at Queen's University Belfast (graduating June 2027)
+- 💻 Software engineering background, with experience in Java, Python, object-oriented programming, REST APIs, relational databases and backend development
+- 🤖 Databricks Certified Generative AI Engineer Associate, with experience in RAG, vector search and AI agents
+- 🥽 Developing an immersive VR courtroom simulator for my MSc final-year project, designed to support criminology education in higher education
+- 🌍 Multilingual — English, Spanish, Portuguese and French
+
 ---
 
 ## 🚀 Projects
 
-| Project | What it is | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [Coffee Shop POS System](https://github.com/estibenjack/coffee-pos-system) | Backend POS and inventory management system, developed incrementally to explore REST APIs, business logic, application design and testing (WIP) | Java 21, Spring Boot, Maven, JUnit 5 |
-| [Azure-native ELT Pipeline](https://github.com/estibenjack/azure-tfl-network-status-pipeline) | Automated ELT pipeline collecting live TfL Underground status data, storing raw data in ADLS Gen2 and loading it into Azure SQL for historical analysis | Azure, ADLS Gen2, Azure SQL, Python |
-| [Olist Sales Analysis](https://github.com/estibenjack/olist-ecommerce-data-project) | End-to-end analytics pipeline across 1.5M+ rows, including data modelling, a star schema and Power BI dashboard | SQL, PostgreSQL, Power BI |
-| [Spotify ETL Pipeline](https://github.com/estibenjack/spotify-pipeline) | Automated ETL pipeline extracting listening history every six hours and enriching it with Last.fm data | Python, PostgreSQL, GitHub Actions |
-| [StreetScript](https://github.com/estibenjack/streetscript) | REST API that transforms song lyrics into language-learning flashcards using Gemini AI | Python, Django REST Framework, PostgreSQL |
+| [TfL Network Status Pipeline](https://github.com/estibenjack/azure-tfl-network-status-pipeline) | Azure ELT pipeline ingesting live TfL disruption data every 15 minutes, using Azure Data Factory, SQL MERGE and dimensional modelling to support historical analysis | Python, Azure Data Factory, ADLS Gen2, Azure SQL |
+| [Olist E-Commerce Data Pipeline](https://github.com/estibenjack/olist-ecommerce-data-project) | Medallion architecture pipeline processing 1.5M+ records across 9 sources, with dimensional modelling, data quality improvements and Power BI reporting | PostgreSQL, SQL, Power BI |
+| [Spotify Listening History ETL](https://github.com/estibenjack/spotify-pipeline) | Automated ETL pipeline extracting Spotify listening data every six hours, enriching metadata through Last.fm and loading structured data into PostgreSQL | Python, PostgreSQL, GitHub Actions |
+| [StreetScript](https://github.com/estibenjack/streetscript) | REST API transforming song lyrics into language-learning flashcards using Gemini AI | Python, Django REST Framework, PostgreSQL |
 | [Sole Traders](https://github.com/estibenjack/sole-traders) | Full-stack web application connecting clients with local tradespeople | Node.js, Express, MySQL, React |
 | [Helix Solutions Sales Report](https://github.com/estibenjack/hs-sales-performance-data-analysis) | CRM sales performance analysis with an interactive dashboard and business recommendations | Excel, Power Query, Pivot Tables |
+
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Software Engineering & Backend Development
+### Data Engineering & Analytics
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-
-### Data Engineering & AI
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -74,19 +72,30 @@
 ### Cloud & DevOps
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazons3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+### Software Engineering & Backend Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+
 ---
 
-## 📊 GitHub Stats
+## 🌍 Beyond the Code
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=estibenjack&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=estibenjack&layout=compact&theme=tokyonight" height="160px"/>
-</p>
+- 🗣️ I speak English, Spanish, Portuguese and French - and I'm slowly learning Lingala when time permits
+- 🎮 World of Warcraft enthusiast
+- 🎵 Interested in music production and technology
+- 🍵 Usually learning something new over a blueberry matcha
 
 ---
 
