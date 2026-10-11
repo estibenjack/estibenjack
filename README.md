@@ -21,15 +21,6 @@
 
 ## 🙋🏼‍♂️ About Me
 
-- 💼 AI & Data Consultant at EY, working on a Financial Services project involving enterprise data platform modernisation and AI
-- 🎓 MSc Software Development @ Queen's University Belfast (graduating 2027)
-- 🥽 Currently working on my MSc final-year project and dissertation: an immersive VR courtroom simulator designed to support criminology education in higher education
-- 💻 Interested in software engineering, particularly backend development, object-oriented design, REST APIs and building reliable applications
-- 🏗️ Passionate about data engineering, from developing ETL/ELT pipelines and modelling data to working with cloud data platforms
-- 🤖 Databricks Certified Generative AI Engineer Associate, with experience in RAG, vector search and AI agents
-- 🧪 Currently developing my Java and Spring Boot skills through personal backend projects, focusing on application design, testing and real-world engineering challenges
-- 🌍 Multilingual — English, Spanish, Portuguese and French
-
 - 💼 AI & Data Consultant at EY, working on a banking data modernisation programme involving legacy data platforms, SQL, data lineage and transformation analysis
 - 🏗️ Particularly interested in data engineering, including ETL/ELT pipelines, data modelling, data quality and cloud data platforms
 - 🎓 Currently completing an MSc in Software Development at Queen's University Belfast (graduating June 2027)
