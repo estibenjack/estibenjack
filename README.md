@@ -35,6 +35,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [Coffee Shop POS & Inventory Management System](https://github.com/estibenjack/coffee-pos-system) 🚧 | **WIP** — Java and Spring Boot backend for managing products, inventory and orders, with REST APIs, business logic and automated testing | Java 21, Spring Boot, JUnit 5, Swagger UI |
 | [TfL Network Status Pipeline](https://github.com/estibenjack/azure-tfl-network-status-pipeline) | Azure ELT pipeline ingesting live TfL disruption data every 15 minutes, using Azure Data Factory, SQL MERGE and dimensional modelling to support historical analysis | Python, Azure Data Factory, ADLS Gen2, Azure SQL |
 | [Olist E-Commerce Data Pipeline](https://github.com/estibenjack/olist-ecommerce-data-project) | Medallion architecture pipeline processing 1.5M+ records across 9 sources, with dimensional modelling, data quality improvements and Power BI reporting | PostgreSQL, SQL, Power BI |
 | [Spotify Listening History ETL](https://github.com/estibenjack/spotify-pipeline) | Automated ETL pipeline extracting Spotify listening data every six hours, enriching metadata through Last.fm and loading structured data into PostgreSQL | Python, PostgreSQL, GitHub Actions |
